@@ -3,6 +3,8 @@
 
 | Introduction     | Summary          |
 | ----------- | -----------   |
-| sql         | working       |
+| sql         | [Done](./sql_lessons/)       |
 | CLASS01 READING   |  [Reading](./class01.md)      |
 | CLASS02 READING   | [Reading](./class02.md)       |
+| CLASS02 READING   | [Reading](./class02.md)       |
+|Data Structures and Algorithms   | [Reading](./DataStructuresAndAlgorithms/DataStructuresAndAlgorithms.md)       |
