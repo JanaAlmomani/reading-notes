@@ -1,0 +1,5 @@
+## Growth mindset
+in generl is the belief that one's abilities, talents, and intelligence can be developed through hard work, dedication, and persistence. This concept was developed by Stanford psychologist Carol Dweck and contrasts with a fixed mindset, where people believe their qualities and abilities are fixed and unchangeable.
+
+
+you want to improve yourself, you need to be willing to try new things that may be outside of your comfort zone. This could include learning new skills, like coding or a new language, even if you don't have any experience. By doing this, you give yourself the opportunity to grow and develop. Even if you face difficulties, with a growth mindset, you see them as opportunities to learn and become better. As you work towards your goals, you will also develop important skills like managing your time and yourself. In the end, having a growth mindset can lead to more success and happiness in your life.
