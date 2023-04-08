@@ -9,3 +9,4 @@
 | Engineering Readings  | [Reading](./EngineeringReadings/EngineeringReadings.md)       |
 |Data Structures and Algorithms   | [Reading](./DataStructuresAndAlgorithms/DataStructuresAndAlgorithms.md)       |
 | Growth Mindset         | [Reading](./GrowthMindset//GrowthMindset.md)       |
+|   The Command Line     | [Reading](./TheCommandLine//The_Command_Line.md)       |
