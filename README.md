@@ -3,7 +3,7 @@
 
 | Introduction     | Summary          |
 | ----------- | -----------   |
-| sql         | [Done](./sql_lessons/)       |
+| sql         | [Done](./sql/sql.md)       |
 | CLASS01 READING   |  [Reading](./class01.md)      |
 | CLASS02 READING   | [Reading](./class02.md)       |
 | CLASS02 READING   | [Reading](./class02.md)       |
