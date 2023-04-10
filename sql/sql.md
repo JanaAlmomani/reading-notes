@@ -49,5 +49,15 @@ The UPDATE statement is used to modify the existing records in a table.
 •	The SQL DELETE Statement
 The DELETE statement is used to delete existing records in a table.
 
-
-
+![L1](./sql_lessons/L1.PNG)
+![L2](./sql_lessons/L2.PNG)
+![L3](./sql_lessons/L3.PNG)
+![L4](./sql_lessons/L4.PNG)
+![L5](./sql_lessons/L5.PNG)
+![L6](./sql_lessons/L6.PNG)
+![L13](./sql_lessons/L13.PNG)
+![L14](./sql_lessons/L14.PNG)
+![L15](./sql_lessons/L15.PNG)
+![L16](./sql_lessons/L16.PNG)
+![L17](./sql_lessons/L17.PNG)
+![L18](./sql_lessons/L18-End.PNG)
