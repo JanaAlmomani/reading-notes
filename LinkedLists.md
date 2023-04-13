@@ -7,7 +7,9 @@
 - It does not waste memory space.
 ## Representation of a Linked List
 This representation of a linked list depicts that each node consists of two fields. The first field consists of data, and the second field consists of pointers that point to another node. Here, the start pointer stores the address of the first node, and at the end, there is a null pointer that states the end of the Linked List
+
 ![Linked List](./linked%20list.PNG)
+
 ## Application of a Linked List
 A linked list is used to implement stacks and queues.
 A linked list also helps to implement an adjacency matrix graph.
