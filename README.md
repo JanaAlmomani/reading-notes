@@ -12,3 +12,4 @@
 |Data Structures and Algorithms   | [Reading](./DataStructuresAndAlgorithms/DataStructuresAndAlgorithms.md)       |
 | Growth Mindset         | [Reading](./GrowthMindset//GrowthMindset.md)       |
 |   The Command Line     | [Reading](./TheCommandLine//The_Command_Line.md)       |
+| Linked Lists         | [Reading]()       |
