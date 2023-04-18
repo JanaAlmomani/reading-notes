@@ -9,6 +9,7 @@
 | CLASS03 READING   | [Reading](./class03.md)       |
 | CLASS04 READING   | [Reading](./class04.md)       |
 | CLASS06 READING   |  [Reading](./class06.md)      |
+| CLASS07 READING   |  [Reading](./class07.md)      |
 | Engineering Readings  | [Reading](./EngineeringReadings/EngineeringReadings.md)       |
 |Data Structures and Algorithms   | [Reading](./DataStructuresAndAlgorithms/DataStructuresAndAlgorithms.md)       |
 | Growth Mindset         | [Reading](./GrowthMindset//GrowthMindset.md)       |
