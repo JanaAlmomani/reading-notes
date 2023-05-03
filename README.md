@@ -16,3 +16,4 @@
 | Growth Mindset         | [Reading](./GrowthMindset//GrowthMindset.md)       |
 |   The Command Line     | [Reading](./TheCommandLine//The_Command_Line.md)       |
 | Linked Lists         | [Reading](./LinkedLists.md)       |
+|  Stacks and Queues  |  [Reading](./Stacks%26Queues.md)      |

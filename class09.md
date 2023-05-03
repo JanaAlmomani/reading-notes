@@ -1,6 +1,6 @@
 - **_What is the purpose of dunder methods in Python? Provide an example of a commonly used dunder method._**
 
-dunder methods are methods that allow instances of a class to interact with the built-in functions and operators of the language. The word “dunder” comes from “double underscore”, because the names of dunder methods start and end with two underscores, for example __str__ or __add__ 
+dunder methods are methods that allow instances of a class to interact with the built-in functions and operators of the language. The word “dunder” comes from “double underscore”, because the names of dunder methods start and end with two underscores, for example __str__ or __reper__ 
 
 ```
 class Person:
