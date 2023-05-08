@@ -18,3 +18,4 @@
 | Linked Lists         | [Reading](./LinkedLists.md)       |
 |  Stacks and Queues  |  [Reading](./Stacks%26Queues.md)      |
 | READING Data Analysis    | [Reading](./DataAnalysis.md)       |
+| CLASS12 READING   |  [Reading](./class12.md)      |
