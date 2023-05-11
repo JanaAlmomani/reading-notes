@@ -19,3 +19,4 @@
 |  Stacks and Queues  |  [Reading](./Stacks%26Queues.md)      |
 | READING Data Analysis    | [Reading](./DataAnalysis.md)       |
 | CLASS12 READING   |  [Reading](./class12.md)      |
+| CLASS13 READING   |  [Reading](./class13.md)      |
