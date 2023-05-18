@@ -56,5 +56,3 @@ To perform breadth first traversal:
    - Dequeue the front node.
    - Output the value of the front node.
     - Enqueue any children of the front node.
-Adding a Node:
-In binary trees, nodes can be added anywhere, while in binary search trees, nodes are inserted in a specific order. To add a node to a binary tree, you
