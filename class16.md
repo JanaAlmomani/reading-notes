@@ -54,6 +54,5 @@ The Requests library is a popular Python library used for sending HTTP requests 
             print(response.text)
         else:
             print('Error:', response.status_code)
-
     ```
 In this example, import the requests library and use the get() function to send a GET request to the specified URL. We check the status_code attribute of the response object to ensure the request was successful, and then print the response content. If there was an error,  print the corresponding status code.
