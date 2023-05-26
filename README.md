@@ -24,3 +24,5 @@
 | CLASS15 READING   |  [Reading](./class15.md)      |
 | CLASS16 READING   |  [Reading](./class16.md)      |
 | CLASS17 READING   |  [Reading](./class17.md)      |
+| CLASS18 READING   |  [Reading](./class18.md)      |
+| CLASS19 READING   |  [Reading](./class19.md)      |
