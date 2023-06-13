@@ -27,3 +27,4 @@
 | CLASS18 READING   |  [Reading](./class18.md)      |
 | CLASS19 READING   |  [Reading](./class19.md)      |
 | CLASS26 READING   |  [Reading](./class26.md)      |
+| CLASS27 READING   |  [Reading](./class27.md)      |
