@@ -1,0 +1,7 @@
+**__How do Django Forms facilitate user input handling, and what are some key components of creating a form using the Django framework?__**
+
+Django forms simplify user input handling. You define a Form class with fields, instantiate it, display it in a template, process submission, validate the data, handle errors, and process the validated data. They provide a streamlined way to interact with user input in Django applications
+
+**__Describe the function of Django Views in handling HTTP requests, and outline the differences between function-based views and class-based views.__**
+
+Django views handle HTTP requests and define the logic for processing and responding to those requests. Function-based views (FBVs) are simple functions that take a request object and return a response. They offer flexibility and direct control but may require more code for complex views. Class-based views (CBVs) are Python classes that inherit from Django's view classes. They provide reusable, structured code with built-in methods for different HTTP methods. CBVs offer additional functionality through mixins, support code organization and reuse, and are suitable for complex views. The choice depends on the specific needs and complexity of your views.
