@@ -6,16 +6,16 @@ JSON Web Tokens (JWTs) are used for securely transmitting information between pa
 
 To integrate JWT authentication with Django REST Framework (DRF) and secure API endpoints:
 
-Install required packages: Install djangorestframework, djangorestframework-jwt, and pyjwt.
+1. Install required packages: Install djangorestframework, djangorestframework-jwt, and pyjwt.
 
-Configure Django settings: Add rest_framework and rest_framework_jwt to INSTALLED_APPS.
+2. Configure Django settings: Add rest_framework and rest_framework_jwt to INSTALLED_APPS.
 
-Configure JWT settings: Define JWT settings in settings.py like JWT_SECRET_KEY, JWT_ALGORITHM, etc.
+3. Configure JWT settings: Define JWT settings in settings.py like JWT_SECRET_KEY, JWT_ALGORITHM, etc.
 
-Implement authentication views: Create views for token generation and refreshing.
+4. Implement authentication views: Create views for token generation and refreshing.
 
-Include JWT URLs: Add JWT authentication URLs to your project's URL configuration.
+5. Include JWT URLs: Add JWT authentication URLs to your project's URL configuration.
 
-Secure API endpoints: Use @api_view and @permission_classes decorators to enforce authentication and permissions for each view.
+6. Secure API endpoints: Use @api_view and @permission_classes decorators to enforce authentication and permissions for each view.
 
-Include JWT authentication: Set DEFAULT_AUTHENTICATION_CLASSES in REST_FRAMEWORK to include JSONWebTokenAuthentication.
+7. Include JWT authentication: Set DEFAULT_AUTHENTICATION_CLASSES in REST_FRAMEWORK to include JSONWebTokenAuthentication.
