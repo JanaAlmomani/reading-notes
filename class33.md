@@ -1,4 +1,4 @@
-### **_What is the primary purpose of JSON Web Tokens (JWTs) and how do they work in terms of encoding and decoding data?_***
+### **_What is the primary purpose of JSON Web Tokens (JWTs) and how do they work in terms of encoding and decoding data?_**
 
 JSON Web Tokens (JWTs) are used for securely transmitting information between parties. They consist of a header, payload, and signature. The header and payload are JSON objects that are Base64Url encoded. The signature is created by hashing the encoded header, encoded payload, and a secret key. JWTs are used for authentication and authorization purposes in web applications, allowing the server to verify the token's authenticity and extract information from the payload without the need for server-side storage.
 
