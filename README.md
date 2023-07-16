@@ -36,4 +36,5 @@
 | CLASS33 READING   |  [Reading](./class33.md)      |
 | CLASS34 READING   |  [Reading](./class34.md)      |
 | CLASS35 READING   |  [Reading](./class35.md)      |
+| CLASS36 READING   |  [Reading](./class36.md)      |
 
