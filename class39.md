@@ -35,3 +35,10 @@ Next.js aims to enhance the development experience, improve performance, and pro
 **Built-in CSS Support**: Next.js supports CSS modules and other styling approaches, simplifying style management.
 
 
+## **_Explain the useContext Hook and how it can be used to access data from a React Context within a functional component._**
+
+The useContext hook in React allows functional components to access data from a React Context easily. It provides a straightforward way to consume the data stored in the context without using the traditional Context Consumer component.
+
+**To use it :**
+
+**need to import the useContext hook from React, create and provide the context with data, and then call the hook within the functional component to access the shared data. This enables clean and efficient data sharing between components without prop drilling.**
