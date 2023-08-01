@@ -41,4 +41,4 @@
 | CLASS38 READING   |  [Reading](./class38.md)      |
 | CLASS39 READING   |  [Reading](./class39.md)      |
 | CLASS41 READING   |  [Reading](./class41.md)      |
-
+| CLASS42 READING   |  [Reading](./class42.md)      |
